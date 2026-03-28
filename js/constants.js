@@ -64,9 +64,9 @@ export const MESSAGES = [
   ],
   [
     '',
-    'I have',
-    'to poop',
-    '- Ben',
+    'I HAVE',
+    'TO POOP',
+    '- BEN',
     ''
   ]
 ];
